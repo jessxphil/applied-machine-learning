@@ -1,2 +1,4 @@
-# applied-machine-learning
-A step-by-step guide to get started with Applied Machine Learning. 
+# Table of Contents
+- Mathematics of Machine Learning: Linear Algebra
+- Mathematics of Machine Learning: Multivariate Calculus
+- Mathematics of Machine Learning: Principle Analysis Component (PCA)
